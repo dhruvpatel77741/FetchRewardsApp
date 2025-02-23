@@ -29,7 +29,7 @@ The app processes the data and displays it in a **sorted, structured list**, fol
 
 2. Open in Android Studio
 - Open **Android Studio (latest stable version)**
-- **Select **"Open an Existing Project"** and navigate to FetchRewardsApp
+- Select **"Open an Existing Project"** and navigate to FetchRewardsApp
 
 4. Run the App
 - Click the **Run** ▶️ button in Android Studio
