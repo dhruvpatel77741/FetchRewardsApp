@@ -25,8 +25,8 @@ The app processes the data and displays it in a **sorted, structured list**, fol
 
 ## 🚀 Setup & Installation
 1️⃣ **Clone the repository:**
-    ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/FetchRewardsApp.git
+   ```bash
+   git clone https://github.com/dhruvpatel77741/FetchRewardsApp.git
 
 2️⃣ **Open in Android Studio**
 - Open **Android Studio (latest stable version)**
